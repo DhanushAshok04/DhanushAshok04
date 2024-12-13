@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dhanush A</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumar204&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumar204" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumar204&label=Profile%20views&color=0e75b6&style=flat" alt="DhanushAshok04" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arunkumar204" alt="arunkumar204" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DhanushAshok04" alt="DhanushAshok04" /></a> </p>
 
 - 🔭 I’m currently working on [Yoom Website](https://arun-zoom.vercel.app/)
 
